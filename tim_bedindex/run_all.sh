@@ -1,0 +1,10 @@
+sh bigzip_tabix.sh SRP028554_junctions_mod.bed
+sh bigzip_tabix.sh SRP028567_junctions_mod.bed
+sh bigzip_tabix.sh SRP028594_junctions_mod.bed
+sh bigzip_tabix.sh SRP032455_junctions_mod.bed
+sh bigzip_tabix.sh SRP033266_junctions_mod.bed
+sh bigzip_tabix.sh SRP048759_junctions_mod.bed
+sh bigzip_tabix.sh SRP056197_junctions_mod.bed
+sh bigzip_tabix.sh SRP056295_junctions_mod.bed
+sh bigzip_tabix.sh SRP098651_junctions_mod.bed
+sh bigzip_tabix.sh SRP122507_junctions_mod.bed
